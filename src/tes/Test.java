@@ -1,0 +1,14 @@
+package tes;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a=3,b=4,x=5;
+		if(++a<4)
+			x=x+1;
+		
+	}
+	
+
+}
